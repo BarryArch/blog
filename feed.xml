@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Barry Arch</title>
+    <link href="https://barryarch.github.io/blog/feed.xml" rel="self" />
+    <link href="https://barryarch.github.io/blog" />
+    <updated>2023-06-26T10:41:00+08:00</updated>
+    <author>
+        <name>barry</name>
+    </author>
+    <id>https://barryarch.github.io/blog</id>
+
+    <entry>
+        <title>This is a test blog</title>
+        <author>
+            <name>barry</name>
+        </author>
+        <link href="https://barryarch.github.io/blog/this-is-a-test-blog.html"/>
+        <id>https://barryarch.github.io/blog/this-is-a-test-blog.html</id>
+
+        <updated>2023-06-26T10:41:00+08:00</updated>
+            <summary>
+                <![CDATA[
+                    Add an image
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h2 id="add-an-image">
+      Add an image
+    </h2>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://barryarch.github.io/blog/media/posts/1/2023-06-05-16-02-46-image.png" height="98" width="554" alt=""  sizes="100vw" srcset="https://barryarch.github.io/blog/media/posts/1/responsive/2023-06-05-16-02-46-image-xs.png 300w ,https://barryarch.github.io/blog/media/posts/1/responsive/2023-06-05-16-02-46-image-sm.png 480w ,https://barryarch.github.io/blog/media/posts/1/responsive/2023-06-05-16-02-46-image-md.png 768w ,https://barryarch.github.io/blog/media/posts/1/responsive/2023-06-05-16-02-46-image-lg.png 1024w ,https://barryarch.github.io/blog/media/posts/1/responsive/2023-06-05-16-02-46-image-xl.png 1360w ,https://barryarch.github.io/blog/media/posts/1/responsive/2023-06-05-16-02-46-image-2xl.png 1600w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+</feed>

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://barryarch.github.io/blog/sitemap.xml

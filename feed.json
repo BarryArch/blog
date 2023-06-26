@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Barry Arch",
+    "description": "",
+    "home_page_url": "https://barryarch.github.io/blog",
+    "feed_url": "https://barryarch.github.io/blog/feed.json",
+    "user_comment": "",
+    "icon": "https://barryarch.github.io/blog/media/website/_.jpeg",
+    "author": {
+        "name": "barry"
+    },
+    "items": [
+        {
+            "id": "https://barryarch.github.io/blog/this-is-a-test-blog.html",
+            "url": "https://barryarch.github.io/blog/this-is-a-test-blog.html",
+            "title": "This is a test blog",
+            "summary": "Add an image",
+            "content_html": "\n    <h2 id=\"add-an-image\">\n      Add an image\n    </h2>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://barryarch.github.io/blog/media/posts/1/2023-06-05-16-02-46-image.png\" height=\"98\" width=\"554\" alt=\"\"  sizes=\"100vw\" srcset=\"https://barryarch.github.io/blog/media/posts/1/responsive/2023-06-05-16-02-46-image-xs.png 300w ,https://barryarch.github.io/blog/media/posts/1/responsive/2023-06-05-16-02-46-image-sm.png 480w ,https://barryarch.github.io/blog/media/posts/1/responsive/2023-06-05-16-02-46-image-md.png 768w ,https://barryarch.github.io/blog/media/posts/1/responsive/2023-06-05-16-02-46-image-lg.png 1024w ,https://barryarch.github.io/blog/media/posts/1/responsive/2023-06-05-16-02-46-image-xl.png 1360w ,https://barryarch.github.io/blog/media/posts/1/responsive/2023-06-05-16-02-46-image-2xl.png 1600w\">\n      \n    </figure>",
+            "author": {
+                "name": "barry"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-06-26T10:41:00+08:00",
+            "date_modified": "2023-06-26T10:41:00+08:00"
+        }
+    ]
+}
